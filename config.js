@@ -1,4 +1,4 @@
-// 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
+// 1. modify the text
 const CONFIG = {
     introTitle: ' ', //write the intro title
     introDesc: ``,
